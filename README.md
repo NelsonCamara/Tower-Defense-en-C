@@ -4,7 +4,7 @@ Jeu de Tower Defense développé en **C** avec rendu graphique via la bibliothè
 
 ---
 
-## 📖 À propos du projet
+## À propos du projet
 
 Le jeu repose sur un système de **gemmes élémentaires** (Pyro 🔥, Dendro 🌿, Hydro 💧) avec des réactions croisées entre éléments, un système économique de **mana** avec progression exponentielle, et une génération procédurale de carte basée sur l'**algorithme de Manhattan**. Les vagues de monstres (Boss, Agile, Foule, Base) se succèdent automatiquement ou peuvent être forcées par le joueur pour gagner du mana bonus.
 
